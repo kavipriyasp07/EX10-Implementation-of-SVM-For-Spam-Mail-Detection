@@ -52,8 +52,12 @@ print(f"The message: '{new_message}' is classified as: {result}")
 
 ## Output:
 ![Screenshot 2024-10-26 122702](https://github.com/user-attachments/assets/f2096800-d194-41f1-83e6-b745ac78b8bb)
+
 ![Screenshot 2024-10-26 122711](https://github.com/user-attachments/assets/97b08069-70ea-4ca0-a793-db0ac177691f)
+
+
 ![Screenshot 2024-10-26 122724](https://github.com/user-attachments/assets/3b044dbc-3c84-481e-b212-99313dec83b9)
+
 ![Screenshot 2024-10-26 122732](https://github.com/user-attachments/assets/a5220edc-c41e-491d-b0ca-4a394fc9bc9a)
 
 
